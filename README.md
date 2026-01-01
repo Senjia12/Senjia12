@@ -1,6 +1,6 @@
 # Senjia12
 
-<table>
+<table style="border-collapse: collapse;">
 <tr>
 <td width="70%">
 
@@ -37,7 +37,7 @@ Email me :
 
 [![Proton Mail Badge](https://img.shields.io/badge/Proton%20Mail-6D4AFF?logo=protonmail&logoColor=fff&style=flat-square)](mailto:senjia.aijen@proton.me)
 
-### :school::mortar_board: Academic
+### :mortar_board: Academic
 
 [![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123?logo=freecodecamp&logoColor=fff&style=flat-square)](https://www.freecodecamp.org/senjia)
 [![W3 Schools](https://img.shields.io/badge/W3%20Schools-04AA6D?logo=w3schools&logoColor=fff&style=flat-square)](https://www.w3profile.com/Senjia/)
@@ -67,7 +67,7 @@ Email me :
 
 [![R Badge](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=fff&style=flat-square)](https://www.r-project.org/)
 
-## Project management
+## :bookmark_tabs: Project management
 
 [![Git Badge](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=flat-square)](https://git-scm.com/)
 [![Notion Badge](https://img.shields.io/badge/Notion-%23000000?logo=notion&logoColor=fff&style=flat-square)](https://www.notion.com/)
