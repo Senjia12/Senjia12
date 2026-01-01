@@ -2,7 +2,7 @@
 
 <table style="border-collapse: collapse;">
 <tr>
-<td width="70%">
+<td width="70%" style="border: none;>
 
 Full Stack Web development | Cybersecurity, ethical hacking | AI | Game development
 
@@ -15,7 +15,7 @@ Full Stack Web development | Cybersecurity, ethical hacking | AI | Game developm
 - Soon-to-be freelancer in web development
 
 </td>
-<td width="30%">
+<td width="30%" style="border: none;">
     <img alt="My version of the octocat, Github's mascot, half cat half pulp. Mine wears wizard clothing, a diademe and comfortable slippers, it's holding a laptop with a grin and squinted eyes." src="octocat.png" width="100%"/>
 </td>
 </tr>
