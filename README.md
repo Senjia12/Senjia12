@@ -1,12 +1,16 @@
 # Senjia12
 
-<table style="border-collapse: collapse;">
-<tr>
-<td width="70%" style="border: none;>
+<img align="right" width="30%" alt="My version of the octocat, Github's mascot, half cat half pulp. Mine wears wizard clothing, a diademe and comfortable slippers, it's holding a laptop with a grin and squinted eyes." src="octocat.png"/>
 
 Full Stack Web development | Cybersecurity, ethical hacking | AI | Game development
 
-## :octocat: Occupations
+<div id="user-content-toc">
+    <ul style="list-style: none;">
+        <summary>
+        <h1>Occupations</h1>
+        </summary>
+    </ul>
+</div>
 
 - Undergraduate student in 2 degrees simultaneously :
     - CS
@@ -14,12 +18,7 @@ Full Stack Web development | Cybersecurity, ethical hacking | AI | Game developm
 - Programming enthusiast
 - Soon-to-be freelancer in web development
 
-</td>
-<td width="30%" style="border: none;">
-    <img alt="My version of the octocat, Github's mascot, half cat half pulp. Mine wears wizard clothing, a diademe and comfortable slippers, it's holding a laptop with a grin and squinted eyes." src="octocat.png" width="100%"/>
-</td>
-</tr>
-</table>
+<br clear="right"/>
 
 # :notebook_with_decorative_cover: My Tech Toolbox
 
