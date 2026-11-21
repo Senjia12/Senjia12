@@ -45,12 +45,12 @@ Email me :
 ## :globe_with_meridians: Web
 
 [![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat-square)](https://html.spec.whatwg.org/multipage/)
-[![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat-square)](https://www.w3.org/Style/CSS/)
+[![CSS 3](https://img.shields.io/badge/CSS-663399?logo=css&logoColor=fff&style=flat-square)](https://www.w3.org/Style/CSS/)
 [![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat-square)](https://www.ecma-international.org/publications-and-standards/standards/ecma-262/)
-[![jQuery Badge](https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=fff&style=flat-square)](https://jquery.com/)
+[![React Badge](https://img.shields.io/badge/react-%23404d59?logo=react&logoColor=%61DAFB&style=flat-square)](https://react.dev/)
 [![NodeJS](https://img.shields.io/badge/node.js-6DA55F?logo=node.js&logoColor=fff&style=flat-square)](https://nodejs.org/)
 [![NPM](https://img.shields.io/badge/NPM-%23CB3837?logo=npm&logoColor=fff&style=flat-square)](https://www.npmjs.com/)
-[![Express.js](https://img.shields.io/badge/express.js-%23404d59?logo=express&logoColor=%2361DAFB&style=flat-square)](https://expressjs.com/)
+[![Express.js](https://img.shields.io/badge/express.js-4B3849?logo=express&logoColor=%B690B1&style=flat-square)](https://expressjs.com/)
 
 ## :video_game: Game
 
@@ -62,6 +62,7 @@ Email me :
 ## :bar_chart: Data Science
 
 [![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat-square)](https://www.python.org/)
+[![Jupyter Badge](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=fff&style=flat-square)](https://jupyter.org/)
 [![NumPy Badge](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=fff&style=flat-square)](https://numpy.org/)
 
 [![R Badge](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=fff&style=flat-square)](https://www.r-project.org/)
